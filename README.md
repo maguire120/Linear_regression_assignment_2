@@ -15,3 +15,13 @@
     # Linear_regression_R.html - html file of the code used to plot the data set and linear regression model using R
     # Linear_regression_R.ipynb - Jupyter lab notebook relating to the Linear_regression_R.html code
     # regression_data.csv - CSV file containing the data in two columns plotted with python and R
+    
+## Part 2 of Assignment_2
+    # The goal of part 2 was to export the notebooks as executable scripts to run in the terminal and generate png images of the resulting graphs
+    
+## Files added after initial commit
+    # Linear_regression_Python.py - executable script using python to read in a set of 2 column data and plot the data with a linear regression model
+    # Linear_regression_R.r - executable script using R to read in a set of 2 column data and plot the data with a linear regression model
+    # linear_regression_python_output.png - picture of the graph resulting from running the .py script
+    # linear_regression_r_output.png - picture of the graph resulting from running the .r script
+    # Rplots.pdf - auto generated file from running the .r script, pdf version of the png image obtained from running the script
