@@ -37,7 +37,7 @@ dataset = pd.read_csv("regression_data.csv")
 # In[59]:
 
 
-
+print(dataset.columns)
 
 
 # In[60]:
@@ -54,9 +54,10 @@ def load_data(df, x_col, y_col):
 # In[61]:
 
 
-
-
+x_col = "YearsExperience"
+y_col = "Salary"
 x, y = load_data(dataset, x_col, y_col)
+# making new variables to rename the x and y columns from the dataset to x_col and y_col
 # making variables x and y that are the values of the columns from the dataset
 
 
